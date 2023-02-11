@@ -6,4 +6,24 @@ body{
 	text-align: center;
 }
 
-.container
+/* Set height and width of the svg frame */
+#frame {
+	width: 500px;
+	height: 500px;
+}
+
+/* Style axes color and width */
+line {
+	stroke: darkblue;
+	stroke-width: 20;
+}
+
+/* Change bar to red */
+.red {
+	stroke: red;
+}
+
+/* Change circle to orange */
+.orange {
+	fill: orange;
+}
