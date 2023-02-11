@@ -2,10 +2,6 @@ body{
 	font-family: Arial;
 }
 
-.center{
-	text-align: center;
-}
-
 /* Set height and width of the svg frame */
 #frame {
 	width: 500px;
